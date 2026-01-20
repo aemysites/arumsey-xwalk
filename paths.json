@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/aem-block-collection/:/",
-    "/content/aem-block-collection/metadata:/metadata.json",
-    "/content/aem-block-collection/configuration:/.helix/config.json"
+    "/content/arumsey-excat/:/",
+    "/content/arumsey-excat/metadata:/metadata.json",
+    "/content/arumsey-excat/configuration:/.helix/config.json"
   ]
 }
