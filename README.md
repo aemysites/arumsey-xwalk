@@ -1,9 +1,8 @@
-# Your Project's Title...
-Your project's description...
+# Anthony XWalk
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--arumsey-xwalk--aemsites.aem.page/
+- Live: https://main--arumsey-xwalk--aemsites.aem.live/
 
 ## Documentation
 
