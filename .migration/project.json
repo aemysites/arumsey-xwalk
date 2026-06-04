@@ -1,7 +1,7 @@
 {
-  "type": "da",
-  "contentHostUrl": "https://content.da.live/aemysites/arumsey-xwalk/",
-  "libraryUrl": "https://main--sta-boilerplate--aemdemos.aem.page/tools/sidekick/library.json",
+  "type": "xwalk",
+  "libraryUrl": "https://main--sta-xwalk-boilerplate--aemysites.aem.page/tools/sidekick/library.json",
   "previewOrg": "aemysites",
-  "previewSite": "arumsey-xwalk"
+  "previewSite": "arumsey-xwalk",
+  "contentHostUrl": "author-p141866-e1455422.adobeaemcloud.com"
 }
