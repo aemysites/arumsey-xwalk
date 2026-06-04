@@ -1,7 +1,7 @@
 {
   "type": "da",
-  "contentHostUrl": "https://content.da.live/aemysites/arumsey-excat-da/",
+  "contentHostUrl": "https://content.da.live/aemysites/arumsey-xwalk/",
   "libraryUrl": "https://main--sta-boilerplate--aemdemos.aem.page/tools/sidekick/library.json",
   "previewOrg": "aemysites",
-  "previewSite": "arumsey-excat-da"
+  "previewSite": "arumsey-xwalk"
 }
